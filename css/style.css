@@ -6,13 +6,15 @@ body {
 }
 
 body h1 {
-  text-align: center;
-  font-weight: 400;
-  font-size: 32px;
+  font: 35x Tahoma;
+  font-weight: lighter;
   padding-bottom: 22px;
   padding-top: 20px;
+  text-align: center;
 }
+
 h3 {
+  margin-top: 0;
   text-align: center;
 }
 
@@ -27,23 +29,21 @@ img {
 .container {
   width: auto;
   margin: auto;
-  padding: 22px;
 }
 p {
   margin: auto;
-  width: 80%;
+  width: 85%;
 }
 .box-1 {
   background-color: rgb(78, 91, 110);
   color: #f4f4f4;
   margin-left: auto;
   margin-right: auto;
-  width: 85%;
 }
 .box-1 h3 {
   font: Tahoma 800;
   text-transform: uppercase;
-  padding-top: 18px;
+  padding-top: 48px;
 }
 
 .box-2 {
@@ -51,10 +51,8 @@ p {
   color: rgb(87, 87, 87);
   margin-left: auto;
   margin-right: auto;
-  width: 85%;
 }
 .box-2 h3 {
-  font: Tahoma 800;
   text-transform: uppercase;
-  padding-top: 18px;
+  padding-top: 48px;
 }
